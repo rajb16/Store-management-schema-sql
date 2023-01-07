@@ -20,6 +20,8 @@ Inventory
 **ER Diagram**: 
 ![ER Diagram](https://github.com/rajb16/Store-management-schema-sql/blob/main/ER%20Diagram.png)
 
+![Diagram](https://github.com/rajb16/Store-management-schema-sql/blob/main/Diagram.png)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
