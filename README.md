@@ -1,6 +1,6 @@
 # Store-management-schema-sql
 
-Store-management is a SQL Schema for store management to record customer transactions as well as keep record of staff. This schema comes with 9 tables and each table has multiple inputs.
+Store-management is a SQL Schema for store managers to record customer transactions as well as keep record of staff. This schema comes with 9 tables and each table has multiple inputs.
 
 ## Download
 
