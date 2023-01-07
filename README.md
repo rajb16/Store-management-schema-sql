@@ -1,1 +1,32 @@
 # Store-management-schema-sql
+
+Foobar is a SQL Schema for store management to record customer transactions as well as keep record of staff. This schema comes with 9 tables and each table has multiple inputs.
+
+## Download
+
+To download this repository, please use the link provided below. 
+
+```bash
+https://github.com/rajb16/Store-management-schema-sql.git
+```
+
+## Usage
+The 9 tables created in this schema include
+```
+Store, Customer, Employee, Department, 
+Salary, Transaction, Manager, Product, 
+Inventory
+```
+**ER Diagram**: 
+![ER Diagram](https://github.com/rajb16/Store-management-schema-sql/blob/main/ER%20Diagram.png)
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
