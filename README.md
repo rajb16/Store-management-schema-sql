@@ -1,6 +1,6 @@
 # Store-management-schema-sql
 
-Foobar is a SQL Schema for store management to record customer transactions as well as keep record of staff. This schema comes with 9 tables and each table has multiple inputs.
+Store-management is a SQL Schema for store management to record customer transactions as well as keep record of staff. This schema comes with 9 tables and each table has multiple inputs.
 
 ## Download
 
@@ -18,9 +18,11 @@ Salary, Transaction, Manager, Product,
 Inventory
 ```
 **ER Diagram**: 
+![Diagram](https://github.com/rajb16/Store-management-schema-sql/blob/main/Diagram.png)
+
 ![ER Diagram](https://github.com/rajb16/Store-management-schema-sql/blob/main/ER%20Diagram.png)
 
-![Diagram](https://github.com/rajb16/Store-management-schema-sql/blob/main/Diagram.png)
+
 
 ## Contributing
 
